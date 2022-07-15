@@ -1,0 +1,4 @@
+﻿Pode-se desenvolver nesta Classe, por exemplo;
+
+1- Validação de CPF.
+2- Consumo uma API de terceiro.
